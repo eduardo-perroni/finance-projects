@@ -1,8 +1,11 @@
 **Finance Projects**
+
 Personal portfolio of financial analysis projects using Python.
 
 **Projects**
+
 Stock Returns Analysis
+
 Analysis of 5 major tech stocks (AAPL, MSFT, GOOGL, AMZN, TSLA).
 
 **What it does:**
@@ -20,6 +23,7 @@ Analysis of 5 major tech stocks (AAPL, MSFT, GOOGL, AMZN, TSLA).
 * yfinance
 
 **About**
+
 Eduardo Perroni - Economics student @ Ibmec, Brasília. 4 languages fluent: Portuguese, English, Spanish, Italian (French in progress).
 
 linkedin.com/in/eperroni
